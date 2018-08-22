@@ -1,0 +1,16 @@
+﻿#topmenu {
+	display :none;
+}
+
+.preregister{
+	margin-right: 7px;
+	height: auto;
+	width: 100%;
+	border: 1px solid #DDD;
+	border-radius: 3px;
+	padding: 10px;
+	border-top: 1px solid #EEE;
+	background: white;
+	float:left;
+	text-align:center;
+}
